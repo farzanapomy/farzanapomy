@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, My name is Farzana POmy
+### Hi there 👋, My name is Farzana Pomy
 #### Web Developer
 
 
