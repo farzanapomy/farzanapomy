@@ -15,5 +15,4 @@ Material UI, Tailwind CSS, Express JS, Node JS, MongoDB, CRUD Operation.
 VSCode, Figma, Github, Netlify, Heroku, Google Dev-tools.
 
 
-Skills: REACT / JS / HTML / CSS/MongoDB 
 
