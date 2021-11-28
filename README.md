@@ -1,4 +1,4 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/D5603AQGy5qPOLrkpJQ/profile-displayphoto-shrink_200_200/0/1638096493444?e=1643846400&v=beta&t=RMBY3_GYJINMNDyCp8C_synIFlRmQ7mWx3joyKFupXs)
+
 
 ### Hi there 👋, My name is Farzana POmy
 #### Web Developer
@@ -24,8 +24,3 @@ Skills: REACT / JS / HTML / CSS/MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/farzanapomy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/farzanapomy&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/farzanapomy)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/farzanapomy)  
