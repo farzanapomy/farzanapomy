@@ -1,7 +1,6 @@
 
 
-### Hi there 👋, 
-<h1>This is Farzana Pomy</h1>
+## Hi there 👋, <h1>This is Farzana Pomy</h1>
 
 <h5>A Full Stack Developer</h5>
 
