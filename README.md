@@ -21,6 +21,7 @@
 - 👯 I’m looking to collaborate tech articles on dev.to.... 
 
 - 💬 Talk to me about Python, JavaScript, C++ ,  Open Source... 
+  <br>
 - ⚱️	Fun Fact " When I wrote this code, only God and I understood what I did. Now only God knows. " 😕
   
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
